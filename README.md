@@ -30,6 +30,8 @@ A SpringBoot based RESTful API toy.
 
 3. As .exe release
     - Launch `RestfulCapybara-x.x.exe`
+- Go to host address with proper port, default http://localhost:8080
+- If the port was changed, open the menu from left-upper corner and set the address
 
 ## Requirements
 - JDK version: 21
